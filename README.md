@@ -1,4 +1,4 @@
-# Ttrend application -fqts
+# Ttrend application -First Quad Tech Solutions
 
 This is a small applicaiton which contains main and test folders.  
 Main contains application code.  

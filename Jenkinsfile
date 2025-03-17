@@ -35,7 +35,7 @@ environment{
                      def uploadSpec = """{
                           "files": [
                             {
-                              "pattern": "jarstaging/(*),
+                              "pattern": "jarstaging/(*)",
                               "target": "fqts-libs-release-local/{1}",
                               "flat": "false",
                               "props" : "${properties}",
